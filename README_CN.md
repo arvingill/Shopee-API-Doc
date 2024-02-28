@@ -9,6 +9,7 @@
 ### 用户信息
 
 [成功返回样例](./examples/success_item_detail.json)
+
 [商品数据为空](./examples/success_item_detail_empty.json)
 
 
