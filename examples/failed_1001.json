@@ -1,0 +1,6 @@
+{
+  "code": 1001,
+  "credits": 0,
+  "msg": "region Input should be 'id', 'vn', 'my', 'th', 'sg', 'ph' or 'tw'",
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/shopee-api-4a62"
+}
