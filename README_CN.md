@@ -6,7 +6,7 @@
 
 ## 成功返回示例
 
-### 用户信息
+### 商品详情
 
 [成功返回样例](./examples/success_item_detail.json)
 
