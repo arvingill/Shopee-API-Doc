@@ -1,0 +1,1900 @@
+{
+  "code": 0,
+  "credits": 0.005,
+  "result": {
+    "bff_meta": null,
+    "data": {
+      "abnormal_popup": null,
+      "account": {
+        "adult_consent": null,
+        "birth_timestamp": null,
+        "default_address": {
+          "address": null,
+          "city": "中正區",
+          "district": "",
+          "region": null,
+          "state": "臺北市",
+          "town": "",
+          "zip_code": ""
+        },
+        "is_new_user": null,
+        "user_id": null
+      },
+      "age_gate": {
+        "kyc": null
+      },
+      "age_gate_control": null,
+      "alcohol_disclaimer": null,
+      "bottom_bar": {
+        "buttons": null,
+        "status": null,
+        "type": 0
+      },
+      "clip_info": null,
+      "deep_discount": null,
+      "design_control": {
+        "display_on_time_delivery_guarantee": false,
+        "use_new_revamp_first_screen": false
+      },
+      "designer_info": null,
+      "exclusive_price": null,
+      "exclusive_price_cta": null,
+      "final_price_indicator": null,
+      "flash_sale": null,
+      "flash_sale_booked": null,
+      "flash_sale_preview": null,
+      "free_return": null,
+      "installment_drawer": null,
+      "item": {
+        "add_on_deal_info": null,
+        "attributes": [
+          {
+            "brand_option": null,
+            "id": 100413,
+            "is_timestamp": false,
+            "name": "Condition",
+            "url": null,
+            "val_id": 2581,
+            "value": "Others"
+          },
+          {
+            "brand_option": null,
+            "id": 100970,
+            "is_timestamp": false,
+            "name": "NCC",
+            "url": null,
+            "val_id": 0,
+            "value": "CCAI184G0090T2"
+          }
+        ],
+        "badge_icon_type": 0,
+        "brand": "Apple 蘋果",
+        "brand_id": 1189223,
+        "bundle_deal_info": null,
+        "can_use_wholesale": false,
+        "cat_id": 100013,
+        "categories": [
+          {
+            "catid": 100013,
+            "display_name": "手機平板與周邊",
+            "is_default_subcat": false,
+            "no_sub": false
+          },
+          {
+            "catid": 100073,
+            "display_name": "手機",
+            "is_default_subcat": false,
+            "no_sub": true
+          }
+        ],
+        "cb_option": 0,
+        "complaint_policy": null,
+        "condition": 4,
+        "ctime": 1562181567,
+        "currency": "TWD",
+        "current_promotion_has_reserve_stock": false,
+        "current_promotion_reserved_stock": 0,
+        "deep_discount": null,
+        "description": "🔥商品名稱：Apple IPhoneXR 128g✅\n\n🔥商品外觀：白色97新✅\n\n🔥商品功能：功能正常✅\n\n🔥商品配件：全新充電頭、全新傳輸線✅\n\n🔥商品保固：原廠過保✅\n\n🔥商品系統：16✅\n\n🔥外縣市寄送歡迎視訊驗機🔥\n\n\n\n📌歡迎舊機折抵\n\n📌歡迎+299元升級10D滿版保貼再送氣墊空壓殼\n\n📌下標之前請先詢問是否有現貨︿︿\n\n📌感謝您的光臨\n",
+        "discount_stock": 0,
+        "estimated_days": 3,
+        "fe_categories": [
+          {
+            "catid": 11041546,
+            "display_name": "Mobile & Gadgets",
+            "is_default_subcat": false,
+            "no_sub": false
+          },
+          {
+            "catid": 11041603,
+            "display_name": "iPhones",
+            "is_default_subcat": false,
+            "no_sub": false
+          },
+          {
+            "catid": 11041604,
+            "display_name": "iPhones",
+            "is_default_subcat": false,
+            "no_sub": true
+          }
+        ],
+        "flag": 720896,
+        "has_low_fulfillment_rate": false,
+        "has_model_with_available_shopee_stock": false,
+        "hidden_price_display": null,
+        "image": "3ec06fb756ef17561f6b17b025cb74a6",
+        "invoice_option": null,
+        "is_adult": false,
+        "is_alcohol_product": false,
+        "is_category_failed": null,
+        "is_free_gift": false,
+        "is_free_shipping": false,
+        "is_hide_stock": false,
+        "is_infant_milk_formula_product": false,
+        "is_live_streaming_price": null,
+        "is_low_price_eligible": null,
+        "is_lowest_price_at_shopee": false,
+        "is_partial_fulfilled": false,
+        "is_pre_order": false,
+        "is_presale": false,
+        "is_presale_deposit_item": null,
+        "is_presale_deposit_made": null,
+        "is_prescription_item": false,
+        "is_preview": false,
+        "is_service_by_shopee": false,
+        "is_unavailable": false,
+        "item_has_video": false,
+        "item_id": 2388062307,
+        "item_rating": {
+          "rating_star": 4.976470588235294
+        },
+        "item_status": "normal",
+        "item_type": 0,
+        "label_ids": [
+          1007880,
+          840902217782303,
+          844931046478970,
+          822059780857868,
+          822120594703895,
+          822120594705943,
+          1948020501544471,
+          844931064601283,
+          844931086908638,
+          840902217783839,
+          1400285049,
+          1717998008,
+          1000028
+        ],
+        "min_purchase_limit": 1,
+        "models": [
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                5,
+                1
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 117832202415,
+            "name": "藍色,128g加購保貼空壓殼",
+            "normal_stock": 0,
+            "price": 600000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 2,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                4,
+                3
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 58712613875,
+            "name": "珊瑚橘,64G加購保貼空壓殼",
+            "normal_stock": 0,
+            "price": 550000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                0,
+                2
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 86887719866,
+            "name": "黑色,64G",
+            "normal_stock": 0,
+            "price": 520000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 6,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                1,
+                2
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 86887719869,
+            "name": "白色,64G",
+            "normal_stock": 0,
+            "price": 520000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 9,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                2,
+                3
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 171165613967,
+            "name": "黃色,64G加購保貼空壓殼",
+            "normal_stock": 0,
+            "price": 630000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                2,
+                4
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 197302552775,
+            "name": "黃色,256G",
+            "normal_stock": 1,
+            "price": 650000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 1,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 1
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                3,
+                2
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 68712133812,
+            "name": "紅色,64G",
+            "normal_stock": 0,
+            "price": 520000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 2,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                4,
+                4
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 197302552780,
+            "name": "珊瑚橘,256G",
+            "normal_stock": 1,
+            "price": 650000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 1,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 1
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                3,
+                1
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 68712133814,
+            "name": "紅色,128g加購保貼空壓殼",
+            "normal_stock": 1,
+            "price": 600000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 1,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 7,
+            "status": 1,
+            "stock": 1
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                4,
+                2
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 68712133816,
+            "name": "珊瑚橘,64G",
+            "normal_stock": 0,
+            "price": 520000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                0,
+                1
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 151037915546,
+            "name": "黑色,128g加購保貼空壓殼",
+            "normal_stock": 1,
+            "price": 600000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 1,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 11,
+            "status": 1,
+            "stock": 1
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                4,
+                1
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 58712613873,
+            "name": "珊瑚橘,128g加購保貼空壓殼",
+            "normal_stock": 2,
+            "price": 600000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 2,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 2,
+            "status": 1,
+            "stock": 2
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                0,
+                0
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 151037915545,
+            "name": "黑色,128g",
+            "normal_stock": 1,
+            "price": 570000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 1,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 15,
+            "status": 1,
+            "stock": 1
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                4,
+                0
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 58712613874,
+            "name": "珊瑚橘,128g",
+            "normal_stock": 2,
+            "price": 570000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 2,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 3,
+            "status": 1,
+            "stock": 2
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                5,
+                0
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 117832202414,
+            "name": "藍色,128g",
+            "normal_stock": 1,
+            "price": 570000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 1,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 3,
+            "status": 1,
+            "stock": 1
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                2,
+                1
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 171165613964,
+            "name": "黃色,128g加購保貼空壓殼",
+            "normal_stock": 0,
+            "price": 600000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                5,
+                4
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 197302552779,
+            "name": "藍色,256G",
+            "normal_stock": 0,
+            "price": 650000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 1,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                0,
+                3
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 86887719867,
+            "name": "黑色,64G加購保貼空壓殼",
+            "normal_stock": 0,
+            "price": 550000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 5,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                5,
+                3
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 117832202413,
+            "name": "藍色,64G加購保貼空壓殼",
+            "normal_stock": 0,
+            "price": 550000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                3,
+                3
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 68712133813,
+            "name": "紅色,64G加購保貼空壓殼",
+            "normal_stock": 2,
+            "price": 550000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 2,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 2
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                1,
+                1
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 86887719868,
+            "name": "白色,128g加購保貼空壓殼",
+            "normal_stock": 0,
+            "price": 600000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 12,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                2,
+                0
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 171165613966,
+            "name": "黃色,128g",
+            "normal_stock": 0,
+            "price": 570000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                2,
+                2
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 171165613969,
+            "name": "黃色,64G",
+            "normal_stock": 0,
+            "price": 600000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 1,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                0,
+                4
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 197302552777,
+            "name": "黑色,256G",
+            "normal_stock": 0,
+            "price": 650000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 1,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                1,
+                0
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 86887719865,
+            "name": "白色,128g",
+            "normal_stock": 0,
+            "price": 570000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 18,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                1,
+                3
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 86887719870,
+            "name": "白色,64G加購保貼空壓殼",
+            "normal_stock": 1,
+            "price": 550000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 1,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 4,
+            "status": 1,
+            "stock": 1
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                3,
+                0
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 58712613872,
+            "name": "紅色,128g",
+            "normal_stock": 0,
+            "price": 570000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 8,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                5,
+                2
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 117832202412,
+            "name": "藍色,64G",
+            "normal_stock": 0,
+            "price": 520000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 0,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 0
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                1,
+                4
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 197302552778,
+            "name": "白色,256G",
+            "normal_stock": 1,
+            "price": 650000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 1,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 1
+          },
+          {
+            "current_promotion_has_reserve_stock": false,
+            "current_promotion_reserved_stock": 0,
+            "extinfo": {
+              "estimated_days": 3,
+              "is_pre_order": false,
+              "tier_index": [
+                3,
+                4
+              ]
+            },
+            "has_gimmick_tag": false,
+            "item_id": 2388062307,
+            "key_measurement": null,
+            "model_id": 197302552776,
+            "name": "紅色,256G",
+            "normal_stock": 1,
+            "price": 650000000,
+            "price_before_discount": 0,
+            "price_stocks": [
+              {
+                "allocated_stock": 0,
+                "promotion_type": 0,
+                "stock_breakdown_by_location": [
+                  {
+                    "address_id": 0,
+                    "allocated_stock": null,
+                    "available_stock": 1,
+                    "fulfilment_type": 2,
+                    "location_id": "TWZ"
+                  }
+                ]
+              }
+            ],
+            "promotion_id": 0,
+            "sold": 0,
+            "status": 1,
+            "stock": 1
+          }
+        ],
+        "normal_stock": 15,
+        "other_stock": 15,
+        "overall_purchase_limit": null,
+        "presale_dday_start_time": null,
+        "preview_info": null,
+        "price": 550000000,
+        "price_before_discount": 0,
+        "price_max": 650000000,
+        "price_max_before_discount": -1,
+        "price_min": 550000000,
+        "price_min_before_discount": -1,
+        "raw_discount": 0,
+        "reference_item_id": "",
+        "rich_text_description": {
+          "paragraph_list": [
+            {
+              "empty_paragraph_count": null,
+              "img_id": null,
+              "ratio": null,
+              "text": "🔥商品名稱：Apple IPhoneXR 128g✅",
+              "type": 0
+            },
+            {
+              "empty_paragraph_count": 1,
+              "img_id": null,
+              "ratio": null,
+              "text": null,
+              "type": 10001
+            },
+            {
+              "empty_paragraph_count": null,
+              "img_id": null,
+              "ratio": null,
+              "text": "🔥商品外觀：白色97新✅",
+              "type": 0
+            },
+            {
+              "empty_paragraph_count": 1,
+              "img_id": null,
+              "ratio": null,
+              "text": null,
+              "type": 10001
+            },
+            {
+              "empty_paragraph_count": null,
+              "img_id": null,
+              "ratio": null,
+              "text": "🔥商品功能：功能正常✅",
+              "type": 0
+            },
+            {
+              "empty_paragraph_count": 1,
+              "img_id": null,
+              "ratio": null,
+              "text": null,
+              "type": 10001
+            },
+            {
+              "empty_paragraph_count": null,
+              "img_id": null,
+              "ratio": null,
+              "text": "🔥商品配件：全新充電頭、全新傳輸線✅",
+              "type": 0
+            },
+            {
+              "empty_paragraph_count": 1,
+              "img_id": null,
+              "ratio": null,
+              "text": null,
+              "type": 10001
+            },
+            {
+              "empty_paragraph_count": null,
+              "img_id": null,
+              "ratio": null,
+              "text": "🔥商品保固：原廠過保✅",
+              "type": 0
+            },
+            {
+              "empty_paragraph_count": 1,
+              "img_id": null,
+              "ratio": null,
+              "text": null,
+              "type": 10001
+            },
+            {
+              "empty_paragraph_count": null,
+              "img_id": null,
+              "ratio": null,
+              "text": "🔥商品系統：16✅",
+              "type": 0
+            },
+            {
+              "empty_paragraph_count": 1,
+              "img_id": null,
+              "ratio": null,
+              "text": null,
+              "type": 10001
+            },
+            {
+              "empty_paragraph_count": null,
+              "img_id": null,
+              "ratio": null,
+              "text": "🔥外縣市寄送歡迎視訊驗機🔥",
+              "type": 0
+            },
+            {
+              "empty_paragraph_count": 3,
+              "img_id": null,
+              "ratio": null,
+              "text": null,
+              "type": 10001
+            },
+            {
+              "empty_paragraph_count": null,
+              "img_id": null,
+              "ratio": null,
+              "text": "📌歡迎舊機折抵",
+              "type": 0
+            },
+            {
+              "empty_paragraph_count": 1,
+              "img_id": null,
+              "ratio": null,
+              "text": null,
+              "type": 10001
+            },
+            {
+              "empty_paragraph_count": null,
+              "img_id": null,
+              "ratio": null,
+              "text": "📌歡迎+299元升級10D滿版保貼再送氣墊空壓殼",
+              "type": 0
+            },
+            {
+              "empty_paragraph_count": 1,
+              "img_id": null,
+              "ratio": null,
+              "text": null,
+              "type": 10001
+            },
+            {
+              "empty_paragraph_count": null,
+              "img_id": null,
+              "ratio": null,
+              "text": "📌下標之前請先詢問是否有現貨︿︿",
+              "type": 0
+            },
+            {
+              "empty_paragraph_count": 1,
+              "img_id": null,
+              "ratio": null,
+              "text": null,
+              "type": 10001
+            },
+            {
+              "empty_paragraph_count": null,
+              "img_id": null,
+              "ratio": null,
+              "text": "📌感謝您的光臨",
+              "type": 0
+            }
+          ]
+        },
+        "shipping_icon_type": 0,
+        "shop_id": 65559594,
+        "shop_location": "新北市三重區",
+        "should_show_amp_tag": true,
+        "show_discount": 0,
+        "show_prescription_feed": false,
+        "show_recycling_info": false,
+        "size_chart": null,
+        "size_chart_info": null,
+        "spl_info": {
+          "channel_id": null,
+          "installment_info": null,
+          "show_spl": false,
+          "show_spl_lite": null,
+          "user_credit_info": null
+        },
+        "status": 1,
+        "stock": 15,
+        "tier_variations": [
+          {
+            "images": null,
+            "name": "顏色",
+            "options": [
+              "黑色",
+              "白色",
+              "黃色",
+              "紅色",
+              "珊瑚橘",
+              "藍色"
+            ],
+            "properties": null,
+            "summed_stocks": null,
+            "type": 0
+          },
+          {
+            "images": null,
+            "name": "尺寸",
+            "options": [
+              "128g",
+              "128g加購保貼空壓殼",
+              "64G",
+              "64G加購保貼空壓殼",
+              "256G"
+            ],
+            "properties": null,
+            "summed_stocks": null,
+            "type": 0
+          }
+        ],
+        "title": "Apple IPhoneXR 128g iPhone XR 128 6.1吋 xr 128g xr/128 現貨 黑色",
+        "welcome_package_type": 0,
+        "wholesale_tier_list": []
+      },
+      "live_stream": null,
+      "mart_key_selling_point": null,
+      "new_user_voucher": {
+        "error": 3,
+        "header_content": null,
+        "is_free_shipping_voucher": null,
+        "is_limited_stock": null,
+        "validation_result": null,
+        "voucher_basic_info": null
+      },
+      "ongoing_banner": null,
+      "presale_guide": null,
+      "price_breakdown": null,
+      "price_with_variation_abtest_group": null,
+      "product_images": {
+        "abnormal_status": "",
+        "first_tier_variations": [],
+        "has_long_image": null,
+        "images": [
+          "3ec06fb756ef17561f6b17b025cb74a6",
+          "e020cdd52101db9c81131dc7a53d593a",
+          "68772bab1204c78f4162689c35eb4842",
+          "4d673540521302137c83bca4d66a7204",
+          "07bcde2ea1a6ef5c31af514cefc1169b",
+          "ac6a4369be90268257d6304b878f2f8c"
+        ],
+        "long_images": null,
+        "makeup_preview": null,
+        "overlay": null,
+        "pdp_top_info_list": null,
+        "promotion_images": [],
+        "shopee_video_info_list": null,
+        "shopee_video_rcmd_info": null,
+        "shopee_video_req_id": null,
+        "skincam": null,
+        "sorted_variation_image_index_list": [],
+        "video": null
+      },
+      "product_meta": {
+        "show_best_price_guarantee": false,
+        "show_lowest_installment_guarantee": false,
+        "show_lowest_price_guarantee": false,
+        "show_official_shop_label_in_title": false,
+        "show_original_guarantee": false,
+        "show_shopee_verified_label": false
+      },
+      "product_preorder": null,
+      "product_price": {
+        "discount": null,
+        "discount_text": null,
+        "hide_discount": false,
+        "hide_price": false,
+        "installment_info": null,
+        "labels": null,
+        "lowest_past_price": null,
+        "pack_size": "",
+        "presale_price": null,
+        "price": {
+          "price_mask": null,
+          "range_max": 650000000,
+          "range_min": 550000000,
+          "single_value": -1
+        },
+        "price_before_discount": null,
+        "spl_installment_info": null
+      },
+      "product_review": {
+        "cmt_count": 85,
+        "global_sold": 138,
+        "historical_sold": 138,
+        "liked": false,
+        "liked_count": 1205,
+        "rating_count": [
+          85,
+          0,
+          0,
+          0,
+          2,
+          83
+        ],
+        "rating_star": 4.976470588235294,
+        "review_rcmd_exp_group": null,
+        "should_move_ratings_above": false,
+        "total_rating_count": 85
+      },
+      "product_shipping": {
+        "also_available_channel_icon_type": null,
+        "also_available_channel_name": null,
+        "free_shipping": {
+          "has_fss": false,
+          "min_spend": {
+            "price_mask": null,
+            "range_max": -1,
+            "range_min": -1,
+            "single_value": 29900000
+          }
+        },
+        "grouped_channel_infos_by_service_type": [],
+        "is_item_with_price_range": true,
+        "pre_order_text": "",
+        "pre_selected_shipping_channel": null,
+        "selected_late_delivery_compensation_for_drawer": null,
+        "shipping_fee_info": {
+          "price": {
+            "price_mask": null,
+            "range_max": 6500000,
+            "range_min": 0,
+            "single_value": -1
+          },
+          "ship_from_location": "新北市三重區",
+          "shipping_icon_type": 0,
+          "warning": null
+        },
+        "show_grouped_channel_first": null,
+        "show_shipping_to": true,
+        "ungrouped_channel_infos": [
+          {
+            "channel_delivery_info": {
+              "delay_message": null,
+              "display_mode": "edt_by_date",
+              "estimated_delivery_date_from": 1709200688,
+              "estimated_delivery_date_to": 1709719088,
+              "estimated_delivery_time_max": 7,
+              "estimated_delivery_time_min": 1,
+              "has_edt": true
+            },
+            "channel_id": 30015,
+            "channel_promotion_infos": null,
+            "is_integrated_channel": true,
+            "is_sst_included": false,
+            "late_delivery_compensation": null,
+            "lowest_bpsf_promotion_rule": null,
+            "name": "蝦皮店到店",
+            "price": {
+              "price_mask": null,
+              "range_max": -1,
+              "range_min": -1,
+              "single_value": 0
+            },
+            "price_before_discount": {
+              "price_mask": null,
+              "range_max": -1,
+              "range_min": -1,
+              "single_value": 4500000
+            },
+            "service_type_info": "",
+            "shipping_icon_type": null,
+            "warning": null
+          },
+          {
+            "channel_delivery_info": {
+              "delay_message": "配送範圍限台北市、新北市、桃園市、新竹市、台中市、台南市、高雄市，部分行政區及區域除外",
+              "display_mode": "edt_by_date",
+              "estimated_delivery_date_from": 1709287088,
+              "estimated_delivery_date_to": 1709805488,
+              "estimated_delivery_time_max": 8,
+              "estimated_delivery_time_min": 2,
+              "has_edt": true
+            },
+            "channel_id": 30017,
+            "channel_promotion_infos": null,
+            "is_integrated_channel": true,
+            "is_sst_included": false,
+            "late_delivery_compensation": null,
+            "lowest_bpsf_promotion_rule": null,
+            "name": "店到家宅配",
+            "price": {
+              "price_mask": null,
+              "range_max": -1,
+              "range_min": -1,
+              "single_value": 6500000
+            },
+            "price_before_discount": null,
+            "service_type_info": "",
+            "shipping_icon_type": null,
+            "warning": null
+          },
+          {
+            "channel_delivery_info": {
+              "delay_message": null,
+              "display_mode": "edt_by_date",
+              "estimated_delivery_date_from": 1709200688,
+              "estimated_delivery_date_to": 1709373488,
+              "estimated_delivery_time_max": 3,
+              "estimated_delivery_time_min": 1,
+              "has_edt": true
+            },
+            "channel_id": 30006,
+            "channel_promotion_infos": null,
+            "is_integrated_channel": true,
+            "is_sst_included": false,
+            "late_delivery_compensation": null,
+            "lowest_bpsf_promotion_rule": null,
+            "name": "全家",
+            "price": {
+              "price_mask": null,
+              "range_max": -1,
+              "range_min": -1,
+              "single_value": 6000000
+            },
+            "price_before_discount": null,
+            "service_type_info": "",
+            "shipping_icon_type": null,
+            "warning": null
+          },
+          {
+            "channel_delivery_info": {
+              "delay_message": null,
+              "display_mode": "edt_by_date",
+              "estimated_delivery_date_from": 1709200688,
+              "estimated_delivery_date_to": 1709373488,
+              "estimated_delivery_time_max": 3,
+              "estimated_delivery_time_min": 1,
+              "has_edt": true
+            },
+            "channel_id": 30007,
+            "channel_promotion_infos": null,
+            "is_integrated_channel": true,
+            "is_sst_included": false,
+            "late_delivery_compensation": null,
+            "lowest_bpsf_promotion_rule": null,
+            "name": "萊爾富",
+            "price": {
+              "price_mask": null,
+              "range_max": -1,
+              "range_min": -1,
+              "single_value": 5000000
+            },
+            "price_before_discount": null,
+            "service_type_info": "",
+            "shipping_icon_type": null,
+            "warning": null
+          },
+          {
+            "channel_delivery_info": {
+              "delay_message": null,
+              "display_mode": "edt_by_date",
+              "estimated_delivery_date_from": 1709287088,
+              "estimated_delivery_date_to": 1709546288,
+              "estimated_delivery_time_max": 5,
+              "estimated_delivery_time_min": 2,
+              "has_edt": true
+            },
+            "channel_id": 30014,
+            "channel_promotion_infos": null,
+            "is_integrated_channel": true,
+            "is_sst_included": false,
+            "late_delivery_compensation": null,
+            "lowest_bpsf_promotion_rule": null,
+            "name": "OK Mart",
+            "price": {
+              "price_mask": null,
+              "range_max": -1,
+              "range_min": -1,
+              "single_value": 4500000
+            },
+            "price_before_discount": null,
+            "service_type_info": "",
+            "shipping_icon_type": null,
+            "warning": null
+          },
+          {
+            "channel_delivery_info": {
+              "delay_message": null,
+              "display_mode": "edt_by_date",
+              "estimated_delivery_date_from": 1709200688,
+              "estimated_delivery_date_to": 1709373488,
+              "estimated_delivery_time_max": 3,
+              "estimated_delivery_time_min": 1,
+              "has_edt": true
+            },
+            "channel_id": 30005,
+            "channel_promotion_infos": null,
+            "is_integrated_channel": true,
+            "is_sst_included": false,
+            "late_delivery_compensation": null,
+            "lowest_bpsf_promotion_rule": null,
+            "name": "7-ELEVEN",
+            "price": {
+              "price_mask": null,
+              "range_max": -1,
+              "range_min": -1,
+              "single_value": 6000000
+            },
+            "price_before_discount": null,
+            "service_type_info": "",
+            "shipping_icon_type": null,
+            "warning": null
+          }
+        ]
+      },
+      "promotion_drawer": null,
+      "promotion_info": {
+        "installment": null,
+        "insurance": null,
+        "item_installment_eligibility": null,
+        "spl": null,
+        "spl_lite": null,
+        "wholesale": null
+      },
+      "retry_info": {
+        "pending_components": null,
+        "retry_id": "twfeb8fa3a23d44df8a435450fb32d53e056jVSDx6Pqu"
+      },
+      "return_on_spot": null,
+      "service_drawer": null,
+      "service_entrance": null,
+      "shipping_info": null,
+      "shipping_meta": null,
+      "shop": {
+        "is_high_end": false,
+        "is_mart": false,
+        "is_official_shop": false,
+        "is_preferred_plus": false,
+        "is_shopee_verified": false,
+        "last_active_time": 1709113340,
+        "seller_status": 1,
+        "shop_id": 65559594,
+        "user_id": 65561047,
+        "username": "shin3c",
+        "vacation": false
+      },
+      "shop_vouchers": null,
+      "shop_vouchers_meta": null,
+      "shopee_free_return": null,
+      "shopee_guarantee": {},
+      "size_guide": null,
+      "tax_disclaimer": null,
+      "teaser_banner": null,
+      "top_product": {
+        "cluster_key": "TW_BITL0_494",
+        "cluster_knodeid": "TW_BITL0_494:top_sold",
+        "cluster_name": "Apple 手機",
+        "rank": 16,
+        "tracking_info": "REQID:1f8a1b84126e2e08f26ac9524ba10d00,BND:top_sold_product_pdp,QUES:BehaviorKnodeStrategy_instance_item_pdptsp_num_1,SECKEY:top_sold_product_pdp_sec"
+      },
+      "welcome_package": null
+    },
+    "error": null,
+    "error_msg": null
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/shopee-api-4a62"
+}
